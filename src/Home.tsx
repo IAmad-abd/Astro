@@ -643,7 +643,7 @@ const Home = (props: HomeProps) => {
                                                     className="tw-text-pink-primary"
                                                     style={{ fontSize: 12 }}
                                                 >
-                                                    $98.10
+                                                    $68.10
                                                 </span>
                                             </li>
 
@@ -1385,7 +1385,7 @@ const Home = (props: HomeProps) => {
                       FEATURED LAUNCH
                     </div>
                     <h1 className="mt-1 tw-text-[58px] tw-font-extrabold tw-leading-none">
-                                                        Cosmic Astronauts
+                                                        TrippyKidz
                     </h1>
                     <div className="tw-inline-flex tw-gap-2 tw-content-center tw-w-fit-content tw-flex-wrap">
                       <div
@@ -1414,7 +1414,7 @@ const Home = (props: HomeProps) => {
                       
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                         <span className="tw-font-light">PRICE</span>
-                        <span className="tw-font-bold">1.65◎</span>
+                        <span className="tw-font-bold">2◎</span>
                       </div>
                       <div className="tw-flex tw-items-center tw-gap-2">
                         <div
@@ -1427,7 +1427,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                                                                    href="https://www.cosmicastronauts.com/"
+                                                                    href="https://trippykidz.net/"
                           >
                             <img
                               src="./img/globe_white.1cc8238d.svg"
@@ -1445,7 +1445,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                                                                    href="https://discord.com/invite/cosmicastro"
+                                                                    href="https://discord.com/invite/trippykidz"
                           >
                             <img
                               src="./img/discord_white.a80cd7b6.svg"
@@ -1463,7 +1463,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                                                                    href="https://twitter.com/CosmicAstroNFT"
+                                                                    href="https://twitter.com/TrippyKidzNFT"
                           >
                             <img
                               src="./img/twitter_white.646bf11e.svg"
@@ -1474,10 +1474,8 @@ const Home = (props: HomeProps) => {
                       </div>
                     </div>
                     <p className="tw-mb-4 tw-text-gray-light">
-                                                        Lost astronauts in some distant galaxy, what have they
-                                                        endured during their trip? Exclusive 4444 collection on the
-                                                        Solana Blockchain sporting revenue generating and real
-                                                        world utility.
+                                                        Exclusive collection of 2222 NFTs tripping on the Solana blockchain. TrippyKidz
+                                                        is a brand built by the community, for the community.
                     </p>
                     <div className="tw-flex tw-flex-col tw-gap-4">
                       <div
@@ -1492,7 +1490,7 @@ const Home = (props: HomeProps) => {
                             <div>
                               <div className="tw-flex tw-items-center">
                                 <div className="tw-bg-purple-3 tw-rounded-full tw-py-0.5 tw-px-2 tw-text-white-1 tw-text-[12px] tw-h-fit-content">
-                                OG
+                                                                                Whitelist
                                 </div>
                               </div>
                             </div>
@@ -1503,7 +1501,7 @@ const Home = (props: HomeProps) => {
                           </div>
                           <div className="tw-flex tw-gap-1.5 tw-text-white-1 tw-tracking-wide tw-text-sm">
                             <span>
-                              OG <b>93</b>
+                              WHITELIST <b>1111</b>
                             </span>
                             <b>•</b>
                             <span>
@@ -1511,7 +1509,7 @@ const Home = (props: HomeProps) => {
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>1.1◎</b>
+                              Price <b>1.5◎</b>
                             </span>
                           </div>
                         </div>
@@ -1522,42 +1520,7 @@ const Home = (props: HomeProps) => {
 
 
                                                        
-                                                            <div
-                                                                className=""
-                                                                data-tooltipped=""
-                                                                aria-describedby="tippy-tooltip-9"
-                                                                data-original-title="Whitelist"
-                                                                style={{ display: "inline" }}
-                                                            >
-                                                                <div className="tw-rounded-xl tw-border tw-border-solid tw-border-purple-1 tw-p-3 tw-flex tw-flex-col tw-gap-6 hover:tw-bg-purple-1 hover:tw-cursor-help">
-                                                                    <div className="tw-flex tw-justify-between tw-items-center">
-                                                                        <div>
-                                                                            <div className="tw-flex tw-items-center">
-                                                                                <div className="tw-bg-purple-3 tw-rounded-full tw-py-0.5 tw-px-2 tw-text-white-1 tw-text-[12px] tw-h-fit-content">
-                                                                                    Whitelist
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div className="tw-flex tw-flex-row tw-gap-2 tw-text-pink-hot tw-text-sm tw-tracking-wide tw-font-medium tw-text-center tw-uppercase tw-items-center">
-                                                                            Ended
-                                                                            <div className="tw-flex tw-gap-2 tw-ml-auto"></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div className="tw-flex tw-gap-1.5 tw-text-white-1 tw-tracking-wide tw-text-sm">
-                                                                        <span>
-                                                                            WHITELIST <b>4000</b>
-                                                                        </span>
-                                                                        <b>•</b>
-                                                                        <span>
-                                                                            MAX <b>1 TOKEN</b>
-                                                                        </span>
-                                                                        <b>•</b>
-                                                                        <span>
-                                                                            Price <b>1.65◎</b>
-                                                                        </span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
+                                                   
 
 
                                                         
@@ -1590,7 +1553,7 @@ const Home = (props: HomeProps) => {
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>1.65◎</b>
+                              Price <b>2◎</b>
                             </span>
                           </div>
                         </div>
@@ -1601,12 +1564,12 @@ const Home = (props: HomeProps) => {
                     <div className="overflow-hidden tw-w-full tw-mb-4 tw-flex-grow tw-rounded-3xl">
                       <div>
                         <img
-                                                                    src="./img/project.webp"
+                                                                src="./img/project.webp"
                           alt="Cynova"
                           className="tw-object-cover tw-aspect-square tw tw-w-screen tw-flex-grow tw-rounded-3xl overflow-hidden"
                         />
                         <img
-                                                                    src="./img/project.webp"
+                                                                src="./img/project.webp"
                           width={1}
                           height={1}
                           className="tw-absolute tw-invisible"
@@ -1618,13 +1581,13 @@ const Home = (props: HomeProps) => {
                         <div className="tw-flex tw-items-center tw-justify-between tw-text-[14px] tw-text-gray-5">
                           <span className="">Total minted</span>
                           <span>
-                            <b className="tw-text-white-1">94%</b> (4177/4444)
+                            <b className="tw-text-white-1">95%</b> (2110/1111)
                           </span>
                         </div>
                         <div className="progress-bar__container">
                           <div
                             className="progress-bar__value"
-                            style={{ width: "94%" }}
+                            style={{ width: "95%" }}
                           />
                         </div>
                       </div>
@@ -1705,14 +1668,14 @@ const Home = (props: HomeProps) => {
                               <div className="tw-flex tw-items-center tw-justify-between tw-text-[14px] tw-text-gray-5">
                                 <span className="">Total minted</span>
                                 <span>
-                                  <b className="tw-text-white-1">93%</b>
-                                  (4177/4444)
+                                  <b className="tw-text-white-1">95%</b>
+                                  (2110/1111)
                                 </span>
                               </div>
                               <div className="progress-bar__container">
                                 <div
                                   className="progress-bar__value"
-                                  style={{ width: "94%" }}
+                                  style={{ width: "95%" }}
                                 ></div>
                               </div>
                             </div>
@@ -1729,7 +1692,7 @@ const Home = (props: HomeProps) => {
                   <div className="tw-flex tw-flex-1 tw-flex-col md:tw-flex-row tw-mx-auto tw-gap-32 tw-pb-20 tw-justify-between">
                     <div className="tw-flex tw-flex-col tw-gap-4 tw-flex-grow md:tw-w-[40%]">
                       <h1 className="mt-1 tw-text-[58px] tw-font-extrabold tw-leading-none">
-                                                            Cosmic Astronauts
+                                                            TrippyKidz
                       </h1>
                       <div className="tw-flex tw-flex-wrap tw-gap-4">
                         <a
@@ -1756,7 +1719,7 @@ const Home = (props: HomeProps) => {
                           <span>Whitepaper</span>
                         </a>
                         <a
-                                                                href="https://www.cosmicastronauts.com/whitepaper.pdf"
+                                                                href="https://trippykidz.net/"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1779,7 +1742,7 @@ const Home = (props: HomeProps) => {
                           <span>Website</span>
                         </a>
                         <a
-                                                                href="https://www.cosmicastronauts.com/"
+                                                                href="https://trippykidz.net/"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1802,7 +1765,7 @@ const Home = (props: HomeProps) => {
                           <span>Discord</span>
                         </a>
                         <a
-                                                                href="https://discord.com/invite/cosmicastro"
+                                                                href="https://discord.com/invite/trippykidz"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1828,15 +1791,16 @@ const Home = (props: HomeProps) => {
                       <div>
                         
                         <p className="tw-text-gray-light tw-mb-3 tw-text-[16] tx-line-[24]">
-                                                                Each astronaut will have a role randomly assigned:
-                                                                Adventurer, Scientist, Doctor, Mission Specialist or
-                                                                Commander. Your roles will determine how much
-                                                                $COSMIC you receive each day.
+                                                                TrippyKidz is an exclusive collection of 2222 NFTs tripping on the Solana
+                                                                Blockchain. We are a community-based project focused on maintaining a strong,
+                                                                tight-knit community while building the TrippyKidz brand.
 
-                                                                The collection size will be 4444 at 1.1 SOL for OG and
-                                                                1.65 SOL for WL/Public. With 25 Astronauts being held
-                                                                by the team for marketing purposes.
-
+                                                                TrippyKidz envisions to be one of the most reputable brand creating a united
+                                                                community focusing on helping people, while becoming the most used and
+                                                                respected PFP on Solana. We are dedicated and plan to continue with the
+                                                                branding of our project around the NFT space and have connections that
+                                                                can further establish our brand to benefit our holders long term,
+                                                                while adding value to TrippyKidz.
                                                             </p>
 
 
@@ -1865,15 +1829,20 @@ const Home = (props: HomeProps) => {
                         <div className="tw-p-4">
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                        THE COUNTDOWN
+                                                                        Phase A
 THE COUNTDOWN
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                                                                     <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                            Assembling the helmets, performing suit leak checks,
-                                                                            and hold the pre-launch astronaut party!
+                                                                        Community Development
+
+                                                                        Art Reveal
+
+                                                                        Official Website
+
+                                                                        Team DOX
 
                             </p>
                             <br />
@@ -1881,14 +1850,23 @@ THE COUNTDOWN
                          
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                            THE TAKEOFF
+                                                                        Phase B
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                            Mint your astronauts, collect your equipment,
-                                                                            and prepare for holder verification.
+                                                                        TrippyKidz Launch
+
+                                                                        Auctions of 1/1s
+
+                                                                        Tokenomics Reveal
+
+                                                                        Staking Launch
+
+                                                                        Raffle Website
+
+                                                                        Background Change
                             </p>
                             <br />
                           </div>
@@ -1896,14 +1874,21 @@ THE COUNTDOWN
                           
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                            AT THE SPACE STATION
+                                                                        Phase C
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                            Grab your tokens, buy some merch, receive exclusive
-                                                                            airdrops, and prepare to depart the station.
+                                                                        Relics
+
+                                                                        Mutants
+
+                                                                        Official Merch
+
+                                                                        TrippyKidz IRL
+
+                                                                        Color Game
                             </p>
                             <br />
                           </div>
@@ -1913,19 +1898,7 @@ THE COUNTDOWN
 
 
 
-                                                                    <div className="tw-my-1">
-                                                                        <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                            OFF INTO DEEP SPACE
-                                                                        </p>
-                                                                        <br />
-                                                                    </div>
-                                                                    <div className="tw-my-1">
-                                                                        <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                            Hop into the cyrogenic chamber to evolve your astronaut,
-                                                                            and enjoy the massive giveaways during your journey.
-                                                                        </p>
-                                                                        <br />
-                                                                    </div>
+                                                             
                                                                
 
 
