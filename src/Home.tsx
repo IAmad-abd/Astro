@@ -1830,19 +1830,19 @@ const Home = (props: HomeProps) => {
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
                                                                         Phase A
-THE COUNTDOWN
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                                                                     <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                        Community Development
+                                                                       
+                                                                       - Community Development
 
-                                                                        Art Reveal
+                                                                       - Art Reveal
 
-                                                                        Official Website
+                                                                       - Official Website
 
-                                                                        Team DOX
+                                                                       - Team DOX
 
                             </p>
                             <br />
@@ -1855,18 +1855,19 @@ THE COUNTDOWN
                             <br />
                           </div>
                           <div className="tw-my-1">
-                            <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                        TrippyKidz Launch
+                                                                    <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
+                                                                        - TrippyKidz Launch
 
-                                                                        Auctions of 1/1s
+                                                                        - Auctions of 1/1s
 
-                                                                        Tokenomics Reveal
+                                                                        - Tokenomics Reveal
 
-                                                                        Staking Launch
+                                                                        - Staking Luanch
 
-                                                                        Raffle Website
+                                                                        - Raffle Website
 
-                                                                        Background Change
+                                                                        - Background Change
+                                                                   
                             </p>
                             <br />
                           </div>
@@ -1879,16 +1880,16 @@ THE COUNTDOWN
                             <br />
                           </div>
                           <div className="tw-my-1">
-                            <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                        Relics
+                                                                    <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
+                                                                        - Relics
 
-                                                                        Mutants
+                                                                        - Mutants
 
-                                                                        Official Merch
+                                                                        - Official Merch
 
-                                                                        TrippyKidz IRL
+                                                                        - Trippykidz IRL
 
-                                                                        Color Game
+                                                                        - Color Game
                             </p>
                             <br />
                           </div>
