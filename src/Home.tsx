@@ -1581,7 +1581,7 @@ const Home = (props: HomeProps) => {
                         <div className="tw-flex tw-items-center tw-justify-between tw-text-[14px] tw-text-gray-5">
                           <span className="">Total minted</span>
                           <span>
-                            <b className="tw-text-white-1">95%</b> (2110/1111)
+                            <b className="tw-text-white-1">95%</b> (2110/2222)
                           </span>
                         </div>
                         <div className="progress-bar__container">
@@ -1669,7 +1669,7 @@ const Home = (props: HomeProps) => {
                                 <span className="">Total minted</span>
                                 <span>
                                   <b className="tw-text-white-1">95%</b>
-                                  (2110/1111)
+                                  (2110/2222)
                                 </span>
                               </div>
                               <div className="progress-bar__container">
